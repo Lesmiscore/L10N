@@ -2,8 +2,8 @@
 <resources>
 
     <string-array name="pref_entries_video_source_engine">
-        <item>レコードじゃない</item>
-        <item>ファントム（ファスト，安定する）</item>
+        <item>Null</item>
+        <item>Phantom</item>
     </string-array>
 
 </resources>

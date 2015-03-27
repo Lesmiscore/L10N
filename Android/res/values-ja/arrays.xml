@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <resources>
+
     <string-array name="pref_entries_video_output_format">
         <item>MKV</item>
-        <item>MP4（推薦じゃない）</item>
-        <item>MOV（推薦じゃない）</item>
+        <item>MP4</item>
+        <item>MOV</item>
         <item>MPEG-TS</item>
         <item>FLV</item>
-        <item>AVI（推薦じゃない）</item>
+        <item>AVI</item>
     </string-array>
     <string-array name="pref_entries_video_source_engine">
-        <item>レコードじゃない</item>
-        <item>レコード</item>
+        <item>Null</item>
+        <item>Memory</item>
     </string-array>
     <string-array name="pref_entries_video_encoding_engine">
-        <item>ハードウェア(ファスト，安定する)</item>
-        <item>ソフトウェア(遅く，最安定する)</item>
+        <item>Hardware</item>
+        <item>Software</item>
     </string-array>
     <string-array name="pref_entries_video_orientation">
-        <item>オート</item>
-        <item>横置きリ</item>
-        <item>ポートレート</item>
+        <item>Auto</item>
+        <item>Landscape</item>
+        <item>Portrait</item>
     </string-array>
     <string-array name="pref_entries_video_resolution">
         <item>240P</item>
@@ -55,26 +55,27 @@
         <item>16 Mbps</item>
     </string-array>
     <string-array name="pref_entries_audio_source">
-        <item>無言</item>
-        <item>マイク</item>
+        <item>Mute</item>
+        <item>Mic</item>
     </string-array>
     <string-array name="pref_entries_network_type">
-        <item>Wi-Fiを連続ただが、生放送します。</item>
-        <item>Wi-Fiや通信を連続して、生放送します。</item>
+        <item>Wi-Fi only</item>
+        <item>Any network</item>
     </string-array>
     <string-array name="profile_tabs">
-        <item>ビデオ</item>
-        <item>フォロー</item>
-        <item>フォロワー</item>
+        <item>videos</item>
+        <item>following</item>
+        <item>followers</item>
     </string-array>
     <string-array name="app_tabs">
-        <item>ビデオ</item>
-        <item>達人</item>
-        <item>おすすめ</item>
+        <item>videos</item>
+        <item>players</item>
+        <item>Games</item>
     </string-array>
     <string-array name="search_tabs">
-        <item>達人</item>
-        <item>ゲーム</item>
-        <item>ビデオ</item>
+        <item>players</item>
+        <item>games</item>
+        <item>videos</item>
     </string-array>
+
 </resources>

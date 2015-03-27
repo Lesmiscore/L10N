@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <resources>
+
     <string-array name="pref_entries_audio_source">
-        <item>無言</item>
-        <item>マイク</item>
-        <item>システム・オーディオ（無言がレコードしている）</item>
+        <item>Mute</item>
+        <item>MIC</item>
+        <item>Internal</item>
     </string-array>
     <string-array name="pref_entries_video_source_engine">
-        <item>レコードじゃない</item>
-        <item>ファントム（ファスト，安定する</item>
-        <item>CPU（遅く，最安定する）</item>
+        <item>Null</item>
+        <item>Phantom</item>
+        <item>Memory</item>
     </string-array>
+
 </resources>
