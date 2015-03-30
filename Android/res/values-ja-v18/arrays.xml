@@ -2,9 +2,9 @@
 <resources>
 
     <string-array name="pref_entries_video_source_engine">
-        <item>Null</item>
-        <item>Phantom</item>
-        <item>Memory</item>
+        <item>無し</item>
+        <item>ファントム</item>
+        <item>メモリー</item>
         <item>GPU</item>
     </string-array>
 
