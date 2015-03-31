@@ -79,6 +79,7 @@
     <string name="activity_account_text_game_casts">%s video</string>
     <string name="activity_account_text_game_players">%s oyuncu</string>
     <string name="activity_account_text_profile">profil</string>
+    <string name="activity_account_text_agree_term">"Kayıt Ol"a basarak, %1$s Hizmet Şartlarını okuduğunuzu %2$s ve %3$s Gizlilik Politikasını kabul ettiğinizi belirtmiş oluyorsunuz %4$s</string>
     <string name="activity_account_toast_follow_failed">Takip etme başarısız</string>
     <string name="activity_account_toast_invalid_email">Geçersiz email</string>
     <string name="activity_account_toast_invalid_password_or_token">Geçersiz parola ya da token</string>
@@ -125,6 +126,16 @@
     <string name="activity_accessibility_disable_setting">Ayarlara git</string>
     <string name="activity_notification_title">Bildirimler</string>
     <string name="activity_no_notifications">Bildirim yok</string>
+    <string name="activity_app_like_success">Takip edildi!</string>
+    <string name="activity_app_like_failed">Takip edilemedi :(</string>
+    <string name="activity_app_unlike_success">Takip bırakıldı!</string>
+    <string name="activity_app_unlike_failed">Takip bırakılamadı :(</string>
+    <string name="activity_game_group_favorite">Takip Edilen Oyunlar</string>
+    <string name="activity_game_group_played">Oynadığın Oyunlar</string>
+    <string name="activity_find_friends_follow_all">Hepsini takip et</string>
+    <string name="activity_find_friends_title">%s Arkadaş</string>
+    <string name="activity_find_friends_text">Shou.TV\'de %1$s %2$s arkadaşın var.</string>
+    <string name="activity_find_friends_no_people">Oyuncu bulunmadı.</string>
     <string name="action_open">Aç</string>
     <string name="action_delete">Sil</string>
     <string name="action_share">Paylaş</string>
@@ -231,7 +242,7 @@
     <string name="pref_title_misc_terms_of_service">Hizmet şartları</string>
     <string name="pref_title_misc_push">Bildirimler</string>
     <string name="pref_summary_misc_push">Bildirimleri almak için etkinleştirin</string>
-    <string name="msg_send_faild">Mesaj gönderilemiyor</string>
+    <string name="msg_send_failed">Mesaj gönderilemiyor</string>
     <string name="msg_description_send">Gönder</string>
     <string name="msg_description_loading">Yükleniyor...</string>
     <string name="msg_hint_send_msg">Bir mesaj gönder</string>

@@ -196,6 +196,7 @@
     <string name="pref_title_video_orientation">画面回転</string>
     <string name="pref_title_video_resolution">解像度</string>
     <string name="pref_title_video_bitrate">ビットレート</string>
+<<<<<<< HEAD
     <string name="pref_title_video_show_touches">タッチを視覚化</string>
     <string name="pref_summary_video_show_touches">タッチについてのビジュアルフィードバックを送信</string>
     <string name="pref_title_video_swap_uv">UVを入れ替える</string>
@@ -230,6 +231,45 @@
     <string name="msg_description_loading">@string/activity_screen_live_loading</string>
     <string name="msg_hint_send_msg">メッセージを送信</string>
     <string name="msg_hint_send_disable">ログイン無しでの送信を無効化しました。</string>
+=======
+    <string name="pref_title_video_show_touches">タッチを出して</string>
+    <string name="pref_summary_video_show_touches">スクリングを触れが、タッチを出して</string>
+    <string name="pref_title_video_swap_uv">顔色な問題を修正します</string>
+    <string name="pref_summary_video_swap_uv">少し設備は顔色な問題があります（例えば、SamSung）</string>
+    <string name="pref_title_audio_source">オーディオ ソース</string>
+    <string name="pref_title_audio_patch_driver">オーディオドライバを設定</string>
+    <string name="pref_summary_audio_patch_driver">注意してください！これはシステムのオーディオをレコードします</string>
+    <string name="pref_title_audio_restore_driver">ドライバを修正</string>
+    <string name="pref_summary_audio_restore_driver">ドライバを修正しならば、これは最初なドライバに設定します。</string>
+    <string name="pref_title_misc_auto_restart">自動再生</string>
+    <string name="pref_summary_misc_auto_restart">レコードとミラーしている、自動再生</string>
+    <string name="pref_title_misc_network_type">ネットワークを選択します</string>
+    <string name="pref_title_misc_bubble">多機能な気泡を使う</string>
+    <string name="pref_summary_misc_bubble">多機能な気泡を出して生放送中</string>
+    <string name="pref_title_misc_server">サーバーを選択します</string>
+    <string name="pref_summary_misc_server">オート</string>
+    <string name="pref_title_misc_reset">置き直す</string>
+    <string name="pref_summary_misc_reset">全部なせってを再設定します</string>
+    <string name="pref_title_misc_recording_dir">レコウドのフォルダ录制视频的文件夹</string>
+    <string name="pref_title_misc_about">Shou.TVについて</string>
+    <string name="pref_summary_misc_about">バージョン： %s</string>
+    <string name="pref_title_misc_twitter">Twitter</string>
+    <string name="pref_summary_misc_twitter">\@Shou_TV</string>
+    <string name="pref_title_misc_google_plus">Google+</string>
+    <string name="pref_summary_misc_google_plus">+ShouBe</string>
+    <string name="pref_title_misc_facebook">Facebook</string>
+    <string name="pref_summary_misc_facebook">Shou.TV</string>
+    <string name="pref_title_misc_open_source">オープンソース·ポリシー</string>
+    <string name="pref_title_misc_privacy_policy">プライバシーポリシー</string>
+    <string name="pref_title_misc_terms_of_service">利用規約</string>
+    <string name="pref_title_misc_push">プッシュ</string>
+    <string name="pref_summary_misc_push">通信を送信します、よろしでしょうか</string>
+    <string name="msg_send_failed">送りしない</string>
+    <string name="msg_description_send">送りました</string>
+    <string name="msg_description_loading">ローディング</string>
+    <string name="msg_hint_send_msg">チェットしよ</string>
+    <string name="msg_hint_send_disable">ログインしてチェットしよ</string>
+>>>>>>> origin/master
     <string name="msg_description_emoji">絵文字</string>
     <string name="msg_ban_user">追放(Ban)</string>
     <string name="msg_ban_user_description">%sの追放しました。</string>
